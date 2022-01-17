@@ -1,6 +1,6 @@
 # example
 
-test
+test 2
 
 ## Project setup
 
